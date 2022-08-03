@@ -1,0 +1,25 @@
+body{
+    background-color: skyblue;
+}
+
+#yourSketch{
+    font-size: 25px;
+}
+
+#confidence{
+    font-size: 25px;
+}
+
+#sketchDrawn{
+    font-size: 25px;
+}
+
+#score{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+#timer{
+    margin-left: 900px;
+    font-size: 20px;
+}
